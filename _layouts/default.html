@@ -16,9 +16,11 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="width: 80%;" />
-        {% endif %}
+        <div style="justify-content: center;">
+          {% if site.logo %}
+            <img src="{{site.logo | relative_url}}" alt="Logo" style="width: 80%;" />
+          {% endif %}
+        </div>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
