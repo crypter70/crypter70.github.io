@@ -1,4 +1,4 @@
-# crypter70.github.io
+# Minimal Portfolio
 
 Minimal portfolio for Data Science-related projects.
 
