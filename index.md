@@ -55,7 +55,7 @@ The program aimed to extract product data from the Tokopedia marketplace website
 <center>
     <br>
     <img src="images/tokopedia-scraper.png"/>
-    <img src="images/tokped_data.png"/>
+    <img src="images/tokped.png"/>
     <br>
 </center>
 
