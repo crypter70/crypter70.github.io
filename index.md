@@ -54,13 +54,11 @@ The program aimed to extract product data from the Tokopedia marketplace website
 
 <center>
     <br>
-    <img src="images/tokped_data.png"/>
-    <br>
     <img src="images/tokopedia-scraper.png"/>
+    <img src="images/tokped_data.png"/>
     <br>
 </center>
 
-<!-- <center><img src="images/tokopedia-scraper.png"/></center> -->
 ---
 
 
@@ -75,13 +73,11 @@ The program aimed to extract university data and publication scores from the SIN
 
 <center>
     <br>
-    <img src="images/sinta_data.png"/>
-    <br>
     <img src="images/sinta-scraper.png"/>
+    <img src="images/sinta_data.png"/>
     <br>
 </center>
 
-<!-- <center><img src="images/sinta-scraper.png"/></center> -->
 ---
 
 
@@ -95,13 +91,10 @@ The program aimed to extract data on the top 1000 schools based on UTBK scores i
 
 <center>
     <br>
+    <img src="images/ltmpt-scraper.png"/>
     <img src="images/ltmpt_data.png"/>
     <br>
-    <img src="images/ltmpt-scraper.png"/>
-    <br>
 </center>
-
-<!-- <center><img src="images/ltmpt-scraper.png"/></center> -->
 
 ---
 <center>© 2023 Yosafat. Powered by Jekyll and the Minimal Theme.</center>
