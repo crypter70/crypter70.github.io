@@ -52,7 +52,15 @@
 The program aimed to extract product data from the Tokopedia marketplace website based on specified keywords using web scraping techniques. Selenium with JavaScript-enabled selectors was utilized to extract the data due to the dynamic elements on the website. The extracted data included product name, price, location, rating, number of items sold, and details link, which were essential for data analysis and market research. The data was saved in both CSV and JSON formats for further processing and analysis.
 </div>
 
-<center><img src="images/tokopedia-scraper.png"/></center>
+<center>
+    <br>
+    <img src="images/tokped_data.png"/>
+    <br>
+    <img src="images/tokopedia-scraper.png"/>
+    <br>
+</center>
+
+<!-- <center><img src="images/tokopedia-scraper.png"/></center> -->
 ---
 
 
@@ -65,7 +73,15 @@ The program aimed to extract product data from the Tokopedia marketplace website
 The program aimed to extract university data and publication scores from the SINTA website using Scrapy. The targeted website is static, and the data is not loaded using JavaScript, which makes Scrapy an appropriate choice due to its efficiency and speed in handling static data on websites. The extracted data included relevant data such as the university's name, location, and publication scores. The data was saved in CSV format for further processing and analysis.
 </div>
 
-<center><img src="images/sinta-scraper.png"/></center>
+<center>
+    <br>
+    <img src="images/sinta_data.png"/>
+    <br>
+    <img src="images/sinta-scraper.png"/>
+    <br>
+</center>
+
+<!-- <center><img src="images/sinta-scraper.png"/></center> -->
 ---
 
 
@@ -77,7 +93,15 @@ The program aimed to extract university data and publication scores from the SIN
 The program aimed to extract data on the top 1000 schools based on UTBK scores in 2022 using Scrapy. The targeted website was a static one, and the data was not loaded using JavaScript. Therefore, Scrapy was an appropriate choice due to its efficiency and speed in handling static data on websites. The program extracted relevant data such as the schools' names, locations, UTBK scores, and other relevant information. The extracted data was useful for analyzing and evaluating the schools' academic performance and ranking. The data was saved in CSV format for further processing and analysis.
 </div>
 
-<center><img src="images/ltmpt-scraper.png"/></center>
+<center>
+    <br>
+    <img src="images/ltmpt_data.png"/>
+    <br>
+    <img src="images/ltmpt-scraper.png"/>
+    <br>
+</center>
+
+<!-- <center><img src="images/ltmpt-scraper.png"/></center> -->
 
 ---
 <center>© 2023 Yosafat. Powered by Jekyll and the Minimal Theme.</center>
