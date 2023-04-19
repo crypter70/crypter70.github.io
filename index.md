@@ -42,17 +42,19 @@
 
 
 ## Web Scraping 
-
 ### Tokopedia Scraper
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Tokopedia-Scraper)
 [![Stars](https://img.shields.io/github/stars/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper)
 [![Forks](https://img.shields.io/github/forks/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper)
 
-<div style="text-align: justify">A program to retrieve product data on the Tokopedia marketplace website based on keywords using Selenium. The website to be scraped is a dynamic website and generally cannot be extracted without a JavaScript-enabled selector. Therefore, Selenium is a suitable choice to extract a dynamic data on website.</div>
+<div style="text-align: justify">
+The project aims to extract product data from the Tokopedia marketplace website based on keywords using web scraping techniques. Since the website's elements are dynamic, Selenium with JavaScript-enabled selectors is utilized to extract the data. The main objective is to extract the product details such as name, price, location, rating, number of sold and details link that could be useful for data analysis and market research. The extracted data will be saved in both CSV and JSON formats for further processing and analysis.
+</div>
 
 <center><img src="images/tokopedia-scraper.png"/></center>
 ---
+
 
 ### SINTA Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/SINTA-Scraper)
@@ -60,16 +62,17 @@
 
 
 <div style="text-align: justify">A program to retrieve university data and publication scores on the SINTA website using Scrapy. The website to be scraped is a static website, data is not loaded using javascript. Therefore, Scrapy is a suitable choice because it has speed and efficiency for static data on websites.</div>
-
+---
 <center><img src="images/sinta-scraper.png"/></center>
 ---
+
 
 ### LTMPT Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/LTMPT-Scraper)
 [![Stars](https://img.shields.io/github/stars/crypter70/LTMPT-Scraper?style=social)](https://github.com/crypter70/LTMPT-Scraper)
 
 <div style="text-align: justify">A web scraper program to retrieve data on the top 1000 schools based on UTBK scores in 2022 using Scrapy. The website to be scraped is a static website, data is not loaded using javascript. Therefore, Scrapy is a suitable choice because it has speed and efficiency for static data on websites.</div>
-
+---
 <center><img src="images/ltmpt-scraper.png"/></center>
 
 ---
