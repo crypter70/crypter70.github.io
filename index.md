@@ -49,7 +49,7 @@
 [![Forks](https://img.shields.io/github/forks/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper)
 
 <div style="text-align: justify">
-The project aims to extract product data from the Tokopedia marketplace website based on keywords using web scraping techniques. Since the website's elements are dynamic, Selenium with JavaScript-enabled selectors is utilized to extract the data. The main objective is to extract the product details such as name, price, location, rating, number of sold and details link that could be useful for data analysis and market research. The extracted data will be saved in both CSV and JSON formats for further processing and analysis.
+The program aimed to extract product data from the Tokopedia marketplace website based on specified keywords using web scraping techniques. Selenium with JavaScript-enabled selectors was utilized to extract the data due to the dynamic elements on the website. The extracted data included product name, price, location, rating, number of items sold, and details link, which were essential for data analysis and market research. The data was saved in both CSV and JSON formats for further processing and analysis.
 </div>
 
 <center><img src="images/tokopedia-scraper.png"/></center>
