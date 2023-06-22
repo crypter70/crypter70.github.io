@@ -4,6 +4,25 @@
 
 ## Data Science
 
+### Credit Default Classification
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Credit-Default-Classification/blob/main/Credit%20Default%20Classification.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Credit-Default-Classification)
+[![Stars](https://img.shields.io/github/stars/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Credit-Default-Classification)
+<!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
+
+<div style="text-align: justify">This project aims to uncover deep credit insights from data and build the best default credit classification model. It focuses on transforming valuable information and developing high performance models for credit classification.</div>
+
+<center>
+    <br>
+    <img src="images/model selection.png"/>
+    <br>
+    <img src="images/confusion matrix.png"/>
+    <br>
+    <img src="images/feature importance.png"/>
+    <br>
+</center>
+---
+
 ### Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Stocks-Prediction)
