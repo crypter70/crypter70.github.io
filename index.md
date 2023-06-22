@@ -20,7 +20,7 @@
     <br>
     <img src="images/feature importance.png"/>
     <br>
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhygfszUYAgKp--qE-368T0H7yQdpzPmy_h5d8ncUSrjW-EoBFg-ezPO7rTq4GN7SZDexwoOlchLO8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhygfszUYAgKp--qE-368T0H7yQdpzPmy_h5d8ncUSrjW-EoBFg-ezPO7rTq4GN7SZDexwoOlchLO8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </center>
 ---
 
