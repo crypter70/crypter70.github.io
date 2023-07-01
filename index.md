@@ -4,6 +4,30 @@
 
 ## Data Science
 
+### Electric Vehicle Type Classification
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification)
+[![Stars](https://img.shields.io/github/stars/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification)
+<!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
+
+<center>
+    <br>
+    <img src="images/electric-vehicle-type/model-selection.png.png"/>
+    <br>
+    <img src="images/electric-vehicle-type/confusion-matrix.png.png"/>
+    <br>
+    <img src="images/electric-vehicle-type/roc-auc-curve.png.png"/>
+    <br>
+    <img src="images/electric-vehicle-type/feature-importance.png.png"/>
+    <br>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFcLcgoogu3hFxtqEjoJJNCn3tmzibuJhKtXauPxQy6lBXgT0CKxzvB_lojPU92BpankbEQjGzx3dJ/embed?start=false&loop=false&delayms=3000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
+
+</center>
+---
+
+
 ### Credit Default Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Credit-Default-Classification/blob/main/Credit%20Default%20Classification.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Credit-Default-Classification)
@@ -26,6 +50,7 @@
 
 </center>
 ---
+
 
 ### Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb)
