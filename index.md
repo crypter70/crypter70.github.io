@@ -14,7 +14,7 @@
     <br>
     <img src="images/electric-vehicle-type/model-selection.png"/>
     <br>
-    <img src="images/electric-vehicle-type/confusion-matrix.png"/>
+    <img src="images/electric-vehicle-type/confusion-matri.png"/>
     <br>
     <img src="images/electric-vehicle-type/roc-auc-curve.png"/>
     <br>
