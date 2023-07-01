@@ -12,7 +12,7 @@
 
 <center>
     <br>
-    <img src="images/electric-vehicle-type/model-selection.png"/>
+    <img src="images/electric-vehicle-type/models-selection.png"/>
     <br>
     <img src="images/electric-vehicle-type/confusion-matrix.png"/>
     <br>
