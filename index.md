@@ -10,6 +10,8 @@
 [![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification)
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
 
+<div style="text-align: justify">This project aims to uncover deep electric vehicle insights from data and build a well-performing electric vehicle type classification model. It focuses on turning data into valuable information and developing a high-performance model for electric vehicle type classification.</div>
+
 <center>
     <br>
     <img src="images/electric-vehicle-type/models-selection.png"/>
