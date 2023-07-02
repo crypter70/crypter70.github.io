@@ -105,13 +105,13 @@
         <br>
         This project aims to transform raw data into useful information for businesses about credit using visualization on the dashboard.
         <br>
+        <br>
     <strong>Dashboard:</strong>
     <br>
     <p>Open the dashboard here (<a href="https://lookerstudio.google.com/u/0/reporting/6b1a0b77-0425-446e-9a92-9288a87f03c3/page/p_mghv1jr16c">Looker Studio Dashboard</a>) </p>
 </div>
 
 <center>
-    <br>
     <img src="images/credit/dashboard-1.png"/>
     <br>
     <br>
@@ -129,13 +129,13 @@
         <br>
         This project aims to transform raw data into useful information about COVID-19 cases using visualizations on the dashboard.
         <br>
+        <br>
     <strong>Dashboard:</strong>
     <br>
     <p>Open the dashboard here (<a href="https://lookerstudio.google.com/u/0/reporting/f6b45eb1-9d07-4d7d-b432-d106743437ff/page/p_42tl4mcf6c">Looker Studio Dashboard</a>) </p>
 </div>
 
 <center>
-    <br>
     <img src="images/covid-19/dashboard-1.png"/>
     <br>
 </center>
