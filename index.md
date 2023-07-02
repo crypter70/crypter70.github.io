@@ -3,7 +3,6 @@
 ---
 
 ## Data Science
-
 ### Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
@@ -100,9 +99,7 @@
 
 
 ## Dashboard 
-
 ### Credit Dashboard
-
 <div style="text-align: justify">
     <strong>Objective:</strong>
         <br>
@@ -111,17 +108,31 @@
 </div>
 
 <center>
+    <br>
     <img src="images/credit/dashboard-1.png"/>
     <br>
-    <!-- <img src="images/electric-vehicle-type/confusion-matrix.png"/>
+    <img src="images/credit/dashboard-2.png"/>
     <br>
-    <img src="images/electric-vehicle-type/roc-auc-curve.png"/>
-    <br> -->
+    <img src="images/credit/dashboard-3.png"/>
+    <br>
 </center>
 ---
 
-
 ### COVID-19 Dashboard
+<div style="text-align: justify">
+    <strong>Objective:</strong>
+        <br>
+        This project aims to transform raw data into useful information about COVID-19 cases using visualizations on the dashboard.
+        <br>
+</div>
+
+<center>
+    <br>
+    <img src="images/covid-19/dashboard-1.png"/>
+    <br>
+</center>
+---
+
 
 ## Web Scraping 
 ### Tokopedia Scraper
