@@ -4,10 +4,13 @@
 
 ## Data Science
 
+
 ### Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification)
 [![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification)
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
 
 <div style="text-align: justify">
@@ -22,7 +25,6 @@
 </div>
 
 <center>
-    <br>
     <img src="images/electric-vehicle-type/models-selection.png"/>
     <br>
     <img src="images/electric-vehicle-type/confusion-matrix.png"/>
@@ -33,7 +35,6 @@
     <br>
 </center>
 ---
-
 
 ### Credit Default Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Credit-Default-Classification/blob/main/Credit%20Default%20Classification.ipynb)
@@ -61,7 +62,6 @@
 
 </center>
 ---
-
 
 ### Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb)
@@ -97,7 +97,15 @@
     <img src="images/topic2.png"/>
     <br>
 </center>
+<br>
 ---
+
+
+## Dashboard 
+### Credit Dashboard
+
+
+### COVID-19 Dashboard
 
 
 ## Web Scraping 
@@ -117,9 +125,7 @@ The program aimed to extract product data from the Tokopedia marketplace website
     <img src="images/tokped_data.png"/>
     <br>
 </center>
-
 ---
-
 
 ### SINTA Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/SINTA-Scraper)
@@ -136,9 +142,7 @@ The program aimed to extract university data and publication scores from the SIN
     <img src="images/sinta_data.png"/>
     <br>
 </center>
-
 ---
-
 
 ### LTMPT Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/LTMPT-Scraper)
@@ -154,7 +158,7 @@ The program aimed to extract data on the top 1000 schools based on UTBK scores i
     <img src="images/ltmpt_data.png"/>
     <br>
 </center>
-
 ---
+
 <center>© 2023 Yosafat. Powered by Jekyll and the Minimal Theme.</center>
 
