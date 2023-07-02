@@ -4,15 +4,12 @@
 
 ## Data Science
 
-
 ### Electric Vehicle Type Classification
-<!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"} -->
-[![This ](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
-[![TEST](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603){:target="_blank"}
-<!-- https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
-
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
+[![Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
@@ -99,9 +96,29 @@
     <br>
 </center>
 <br>
+---
+
 
 ## Dashboard 
+
 ### Credit Dashboard
+
+<div style="text-align: justify">
+    <strong>Objective:</strong>
+        <br>
+        This project aims to transform raw data into useful information for businesses about credit using visualization on the dashboard.
+        <br>
+</div>
+
+<center>
+    <img src="images/credit/dashboard-1.png"/>
+    <br>
+    <!-- <img src="images/electric-vehicle-type/confusion-matrix.png"/>
+    <br>
+    <img src="images/electric-vehicle-type/roc-auc-curve.png"/>
+    <br> -->
+</center>
+---
 
 
 ### COVID-19 Dashboard
