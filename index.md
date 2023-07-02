@@ -31,17 +31,6 @@
     <br>
     <img src="images/electric-vehicle-type/feature-importance.png"/>
     <br>
-    <div id="retainable-rss-embed" 
-    data-rss="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603"
-    data-maxcols="3" 
-    data-layout="grid" 
-    data-poststyle="inline" 
-    data-readmore="Read the rest" 
-    data-buttonclass="btn btn-primary" 
-    data-offset="-100"></div>
-    <!-- <iframe src="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603" width="100%" height="600px" frameborder="0"></iframe> -->
-    <!-- <a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603">Read the Article</a> -->
-
 </center>
 ---
 
@@ -52,7 +41,11 @@
 [![Stars](https://img.shields.io/github/stars/crypter70/Credit-Default-Classification?style=social)](https://github.com/crypter70/Credit-Default-Classification)
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
 
-<div style="text-align: justify">This project aims to uncover deep credit insights from data and build the best default credit classification model. It focuses on transforming valuable information and developing high performance models for credit classification.</div>
+<div style="text-align: justify">
+    <strong>Objective:</strong>
+    <br>
+    This project aims to uncover deep credit insights from data and build the best default credit classification model. It focuses on transforming valuable information and developing high performance models for credit classification.
+</div>
 
 <center>
     <br>
