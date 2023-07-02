@@ -22,7 +22,8 @@
     <br>
     <img src="images/electric-vehicle-type/feature-importance.png"/>
     <br>
-    <a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603">Read the Article</a>
+    <iframe src="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603" width="100%" height="600px" frameborder="0"></iframe>
+    <!-- <a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603">Read the Article</a> -->
 
 </center>
 ---
