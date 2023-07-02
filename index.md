@@ -11,11 +11,15 @@
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
 
 <div style="text-align: justify">
-<strong>Objective</strong>
+<br><strong>Objective:</strong></br>
 This project aims to uncover deep electric vehicle insights from data and build a well-performing electric vehicle type classification model. It focuses on turning data into valuable information and developing a high-performance model for electric vehicle type classification.
+<br>
 <p>
-Read the Article: <a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603">Medium Article</a>
+Read the Article: 
+
+<br><a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603">Medium Article</a><br>
 </p>
+<br>
 </div>
 
 <center>
