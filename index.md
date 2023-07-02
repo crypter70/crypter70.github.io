@@ -19,7 +19,6 @@
     <strong>Article:</strong>
     <br>
     <p>Read the article here (<a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603">Medium Article</a>) </p>
-    <br>
 </div>
 
 <center>
