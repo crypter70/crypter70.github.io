@@ -6,10 +6,10 @@
 
 
 ### Electric Vehicle Type Classification
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification)
-[![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification)
-[![TEST](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
+[![Repository](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
+[![TEST](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603){:target="_blank"}
 <!-- https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
 
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
