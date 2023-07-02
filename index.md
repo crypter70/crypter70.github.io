@@ -1,5 +1,5 @@
 # Portfolio
-
+<script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
 ---
 
 ## Data Science
@@ -22,7 +22,15 @@
     <br>
     <img src="images/electric-vehicle-type/feature-importance.png"/>
     <br>
-    <iframe src="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603" width="100%" height="600px" frameborder="0"></iframe>
+    <div id="retainable-rss-embed" 
+    data-rss="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603"
+    data-maxcols="3" 
+    data-layout="grid" 
+    data-poststyle="inline" 
+    data-readmore="Read the rest" 
+    data-buttonclass="btn btn-primary" 
+    data-offset="-100"></div>
+    <!-- <iframe src="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603" width="100%" height="600px" frameborder="0"></iframe> -->
     <!-- <a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603">Read the Article</a> -->
 
 </center>
