@@ -97,6 +97,7 @@
 <br>
 
 
+---
 ## Dashboard 
 ### COVID-19 Cases (Indonesia) Dashboard
 <div style="text-align: justify">
@@ -113,6 +114,7 @@
     <img src="images/covid-19-indonesia/dashboard-1.png"/>
     <br>
 </center>
+---
 
 ### Credit Dashboard
 <div style="text-align: justify">
