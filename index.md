@@ -95,9 +95,9 @@
     <br>
 </center>
 <br>
+
+
 ---
-
-
 ## Dashboard 
 ### COVID-19 Cases (Indonesia) Dashboard
 <div style="text-align: justify">
@@ -139,6 +139,7 @@
     <img src="images/credit/dashboard-3.png"/>
     <br>
 </center>
+---
 
 ### COVID-19 Dashboard
 <div style="text-align: justify">
@@ -157,7 +158,7 @@
     <br>
 </center>
 
-
+---
 ## Web Scraping 
 ### Tokopedia Scraper
 
@@ -175,11 +176,11 @@ The program aimed to extract product data from the Tokopedia marketplace website
     <img src="images/tokped_data.png"/>
     <br>
 </center>
+---
 
 ### SINTA Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/SINTA-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/SINTA-Scraper?style=social)](https://github.com/crypter70/SINTA-Scraper){:target="_blank"}
-
 
 <div style="text-align: justify">
 The program aimed to extract university data and publication scores from the SINTA website using Scrapy. The targeted website is static, and the data is not loaded using JavaScript, which makes Scrapy an appropriate choice due to its efficiency and speed in handling static data on websites. The extracted data included relevant data such as the university's name, location, and publication scores. The data was saved in CSV format for further processing and analysis.
@@ -191,6 +192,7 @@ The program aimed to extract university data and publication scores from the SIN
     <img src="images/sinta_data.png"/>
     <br>
 </center>
+---
 
 ### LTMPT Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/LTMPT-Scraper){:target="_blank"}
