@@ -95,6 +95,7 @@
     <br>
 </center>
 <br>
+---
 
 
 ## Dashboard 
@@ -113,6 +114,7 @@
     <img src="images/covid-19-indonesia/dashboard-1.png"/>
     <br>
 </center>
+---
 
 ### Credit Dashboard
 <div style="text-align: justify">
@@ -203,7 +205,6 @@ The program aimed to extract data on the top 1000 schools based on UTBK scores i
     <img src="images/ltmpt_data.png"/>
     <br>
 </center>
----
 
 <center>© 2023 Yosafat. Powered by Jekyll and the Minimal Theme.</center>
 
