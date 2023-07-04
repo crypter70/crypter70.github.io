@@ -2,6 +2,7 @@
 <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
 ---
 
+
 ## Data Science
 ### Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
@@ -57,6 +58,7 @@
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFcLcgoogu3hFxtqEjoJJNCn3tmzibuJhKtXauPxQy6lBXgT0CKxzvB_lojPU92BpankbEQjGzx3dJ/embed?start=false&loop=false&delayms=3000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </div>
 </center>
+---
 
 ### Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb){:target="_blank"}
@@ -75,6 +77,7 @@
     <img src="images/stocks3.png"/>
     <br>
 </center>
+---
 
 ### Topic Extraction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Topic-Extraction/blob/main/Topic%20Extraction.ipynb){:target="_blank"}
