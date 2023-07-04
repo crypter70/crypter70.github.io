@@ -95,9 +95,9 @@
     <br>
 </center>
 <br>
-
-
 ---
+
+
 ## Dashboard 
 ### COVID-19 Cases (Indonesia) Dashboard
 <div style="text-align: justify">
@@ -109,6 +109,7 @@
     <strong>Dashboard:</strong>
     <br>
     <p>Open the dashboard here (<a href="https://public.tableau.com/views/COVID-19CasesIndonesia/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a>) </p>
+</div>
 
 <center>
     <img src="images/covid-19-indonesia/dashboard-1.png"/>
