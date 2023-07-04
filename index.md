@@ -56,9 +56,7 @@
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFcLcgoogu3hFxtqEjoJJNCn3tmzibuJhKtXauPxQy6lBXgT0CKxzvB_lojPU92BpankbEQjGzx3dJ/embed?start=false&loop=false&delayms=3000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </div>
-
 </center>
----
 
 ### Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb){:target="_blank"}
@@ -77,7 +75,6 @@
     <img src="images/stocks3.png"/>
     <br>
 </center>
----
 
 ### Topic Extraction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Topic-Extraction/blob/main/Topic%20Extraction.ipynb){:target="_blank"}
@@ -95,7 +92,6 @@
     <br>
 </center>
 <br>
----
 
 
 ## Dashboard 
@@ -114,7 +110,6 @@
     <img src="images/covid-19-indonesia/dashboard-1.png"/>
     <br>
 </center>
----
 
 ### Credit Dashboard
 <div style="text-align: justify">
