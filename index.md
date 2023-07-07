@@ -4,7 +4,7 @@
 
 <style>
     .image-with-shadow {
-        box-shadow: 0px 2px 8px rgba(63, 69, 81, 0.16);
+        box-shadow: 0px 1px 6px rgba(63, 69, 81, 0.16);
         border-radius: 8px;
     }
 </style>
