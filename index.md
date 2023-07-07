@@ -6,11 +6,9 @@
 ## Data Science
 
 ### Bank Customer Churn Prediction
-![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
-<!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
-<!-- [![Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603){:target="_blank"} -->
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
@@ -20,11 +18,11 @@
         <br>
     <strong>Article:</strong>
     <br>
-    <p>Read the article here (<a href="">Medium Article</a>) </p>
+    <!-- <p>Read the article here (<a href="">Medium Article</a>) </p> -->
 </div>
 
 <center>
-    <img src="images/bank-customer-churn/models-selection.png"/>
+    <img src="images/bank-customer-churn/model-selection.png"/>
     <br>
     <img src="images/bank-customer-churn/confusion-matrix.png"/>
     <br>
