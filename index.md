@@ -24,9 +24,12 @@
 <center>
     <img src="images/bank-customer-churn/model-selection.png"/>
     <br>
+    <br>
     <img src="images/bank-customer-churn/confusion-matrix.png"/>
     <br>
+    <br>
     <img src="images/bank-customer-churn/rocauc-curve.png"/>
+    <br>
     <br>
 </center>
 ---
