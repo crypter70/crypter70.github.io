@@ -33,7 +33,6 @@
 </center>
 ---
 
-
 ### Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
