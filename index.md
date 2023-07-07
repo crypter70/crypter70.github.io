@@ -19,7 +19,7 @@
         <br>
     <strong>Article:</strong>
     <br>
-    <p>Read the article here (<a href="https://medium.com/@crypter70/bank-customer-churn-prediction-using-machine-learning-514516ecf82e">Medium Article</a>) </p>
+    <p>Read the article here (<a href="https://medium.com/@crypter70/bank-customer-churn-prediction-using-machine-learning-514516ecf82e" target="_blank">Medium Article</a>) </p>
 </div>
 
 <center>
@@ -50,7 +50,7 @@
         <br>
     <strong>Article:</strong>
     <br>
-    <p>Read the article here (<a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603">Medium Article</a>) </p>
+    <p>Read the article here (<a href="https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603" target="_blank">Medium Article</a>) </p>
 </div>
 
 <center>
