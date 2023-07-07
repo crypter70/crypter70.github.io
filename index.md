@@ -42,8 +42,8 @@
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFn-oQ3tJo&#x2F;view?utm_content=DAFn-oQ3tJo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Bank Customer Churn Prediction</a> by Yosafat
     </div>
-    <br>
-    <br>
+    <!-- <br>
+    <br> -->
 </center>
 ---
 
