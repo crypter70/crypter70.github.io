@@ -37,7 +37,6 @@
     <br>
     <img src="images/bank-customer-churn/rocauc-curve.png" class="image-with-shadow" width="90%" height="90%">
     <br>
-    <br>
         <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
         padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
         border-radius: 8px; will-change: transform;">
@@ -99,15 +98,20 @@
 
 <center>
     <br>
-    <img src="images/model selection.png"/>
+    <img src="images/model selection.png" class="image-with-shadow">
     <br>
-    <img src="images/confusion matrix.png"/>
     <br>
-    <img src="images/feature importance.png"/>
+    <img src="images/confusion matrix.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/feature importance.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
     <br>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFcLcgoogu3hFxtqEjoJJNCn3tmzibuJhKtXauPxQy6lBXgT0CKxzvB_lojPU92BpankbEQjGzx3dJ/embed?start=false&loop=false&delayms=3000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </div>
+    <br>
+    <br>
 </center>
 ---
 
