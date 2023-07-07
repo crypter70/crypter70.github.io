@@ -2,6 +2,11 @@
 <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
 ---
 
+<style>
+    .image-with-shadow {
+        box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.5);
+    }
+</style>
 
 ## Data Science
 
@@ -29,7 +34,7 @@
     <img src="images/bank-customer-churn/confusion-matrix.png"/>
     <br>
     <br>
-    <img src="images/bank-customer-churn/rocauc-curve.png"/>
+    <img src="images/bank-customer-churn/rocauc-curve.png" class="image-with-shadow">
     <br>
     <br>
         <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
