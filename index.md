@@ -70,13 +70,17 @@
 </div>
 
 <center>
-    <img src="images/electric-vehicle-type/models-selection.png"/>
+    <img src="images/electric-vehicle-type/models-selection.png" class="image-with-shadow">
     <br>
-    <img src="images/electric-vehicle-type/confusion-matrix.png"/>
     <br>
-    <img src="images/electric-vehicle-type/roc-auc-curve.png"/>
+    <img src="images/electric-vehicle-type/confusion-matrix.png" class="image-with-shadow" width="90%" height="90%">
     <br>
-    <img src="images/electric-vehicle-type/feature-importance.png"/>
+    <br>
+    <img src="images/electric-vehicle-type/roc-auc-curve.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/electric-vehicle-type/feature-importance.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
     <br>
 </center>
 ---
