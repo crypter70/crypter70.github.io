@@ -5,6 +5,7 @@
 <style>
     .image-with-shadow {
         box-shadow: 0px 2px 8px rgba(63, 69, 81, 0.16);
+        border-radius: 8px;
     }
 </style>
 
@@ -31,10 +32,10 @@
     <img src="images/bank-customer-churn/model.png" class="image-with-shadow">
     <br>
     <br>
-    <img src="images/bank-customer-churn/confusion-matrix.png" class="image-with-shadow">
+    <img src="images/bank-customer-churn/confusion-matrix.png" class="image-with-shadow" width="80%" height="80%">
     <br>
     <br>
-    <img src="images/bank-customer-churn/rocauc-curve.png" class="image-with-shadow">
+    <img src="images/bank-customer-churn/rocauc-curve.png" class="image-with-shadow" width="80%" height="80%">
     <br>
     <br>
         <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
