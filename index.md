@@ -4,7 +4,7 @@
 
 <style>
     .image-with-shadow {
-        box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.5);
+        box-shadow: 0px 2px 8px rgba(63, 69, 81, 0.16);
     }
 </style>
 
@@ -28,10 +28,10 @@
 </div>
 
 <center>
-    <img src="images/bank-customer-churn/model.png"/>
+    <img src="images/bank-customer-churn/model.png" class="image-with-shadow">
     <br>
     <br>
-    <img src="images/bank-customer-churn/confusion-matrix.png"/>
+    <img src="images/bank-customer-churn/confusion-matrix.png" class="image-with-shadow">
     <br>
     <br>
     <img src="images/bank-customer-churn/rocauc-curve.png" class="image-with-shadow">
