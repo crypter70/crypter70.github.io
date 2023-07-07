@@ -23,7 +23,7 @@
 </div>
 
 <center>
-    <img src="images/bank-customer-churn/model-selection.png"/>
+    <img src="images/bank-customer-churn/model.png"/>
     <br>
     <br>
     <img src="images/bank-customer-churn/confusion-matrix.png"/>
