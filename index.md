@@ -6,7 +6,7 @@
 ## Data Science
 
 ### Bank Customer Churn Prediction
-![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
+![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
