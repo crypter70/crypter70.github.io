@@ -72,7 +72,7 @@
     <img src="images/electric-vehicle-type/models-selection.png" class="image-with-shadow">
     <br>
     <br>
-    <img src="images/electric-vehicle-type/confusion-matrix.png" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/electric-vehicle-type/cf.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
     <img src="images/electric-vehicle-type/roc-auc-curve.png" class="image-with-shadow" width="90%" height="90%">
