@@ -257,7 +257,7 @@
 <center>
     <br>
     <img src="images/nike-scraper.png">
-    <img src="images/nike-data.png" class="image-with-shadow">
+    <img src="images/nike-data.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
 </center>
