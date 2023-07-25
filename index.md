@@ -176,6 +176,7 @@
 <center>
     <img src="images/covid-19-indonesia/dashboard-1.png"/>
     <br>
+    <br>
 </center>
 ---
 
@@ -200,6 +201,7 @@
     <br>
     <img src="images/credit/dashboard-3.png"/>
     <br>
+    <br>
 </center>
 ---
 
@@ -217,6 +219,7 @@
 
 <center>
     <img src="images/covid-19/dashboard-1.png"/>
+    <br>
     <br>
 </center>
 
@@ -258,7 +261,6 @@
     <br>
     <img src="images/nike-scraper.png"/>
     <img src="images/nike-data-1.png"/>
-    <br>
     <br>
 </center>
 ---
