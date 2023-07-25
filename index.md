@@ -259,6 +259,7 @@
     <img src="images/nike-scraper.png">
     <img src="images/nike-data.png" class="image-with-shadow">
     <br>
+    <br>
 </center>
 ---
 
