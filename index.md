@@ -223,8 +223,8 @@
 
 ---
 ## Web Scraping 
-### Tokopedia Scraper
 
+### Tokopedia Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
 [![Forks](https://img.shields.io/github/forks/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
@@ -239,6 +239,25 @@
     <br>
     <img src="images/tokopedia-scraper.png"/>
     <img src="images/tokped_data.png"/>
+    <br>
+</center>
+---
+
+### Nike Scraper
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Nike-Scraper){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/Nike-Scraper?style=social)](https://github.com/crypter70/Nike-Scraper){:target="_blank"}
+<!-- [![Forks](https://img.shields.io/github/forks/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Nike-Scraper){:target="_blank"} -->
+
+<div style="text-align: justify">
+    <strong>Objective:</strong>
+    <br>
+    Web Scraper program to extract products data from Nike website using Playwright. Playwright is an open-source Node.js library developed by Microsoft for cross-browser web automation and testing. The data retrieved include product name, category, number of colors, and prices which are then exported into csv and json.
+</div>
+
+<center>
+    <br>
+    <img src="images/nike-scraper.png">
+    <img src="images/nike-data.png" class="image-with-shadow">
     <br>
 </center>
 ---
