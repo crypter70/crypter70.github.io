@@ -7,6 +7,16 @@
         box-shadow: 0px 1px 6px rgba(63, 69, 81, 0.16);
         border-radius: 8px;
     }
+
+    .image-container {
+    display: flex; /* Or use "display: grid;" for a grid layout */
+    justify-content: space-between; /* Adjust as needed */
+    }
+
+    .image-container img {
+        width: 45%; /* Adjust the width as needed to fit both images side by side */
+        height: auto; /* To maintain aspect ratio */
+    }
 </style>
 
 ## Data Science
@@ -31,12 +41,16 @@
 <center>
     <img src="images/bank-customer-churn/model.png" class="image-with-shadow">
     <br>
-    <br>
+    <div class="image-container">
+        <img src="images/bank-customer-churn/confusion-matrix.png" class="image-with-shadow">
+        <img src="images/bank-customer-churn/rocauc-curve.png" class="image-with-shadow">
+    </div>
+    <!-- <br>
     <img src="images/bank-customer-churn/confusion-matrix.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
     <img src="images/bank-customer-churn/rocauc-curve.png" class="image-with-shadow" width="90%" height="90%">
-    <br>
+    <br> -->
         <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
         padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
         border-radius: 8px; will-change: transform;">
