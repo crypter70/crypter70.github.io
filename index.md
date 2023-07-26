@@ -14,7 +14,7 @@
     }
 
     .image-container img {
-        width: 50%; /* Adjust the width as needed to fit both images side by side */
+        width: 48%; /* Adjust the width as needed to fit both images side by side */
         height: auto; /* To maintain aspect ratio */
     }
 </style>
