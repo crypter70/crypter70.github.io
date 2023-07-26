@@ -14,7 +14,7 @@
     }
 
     .image-container img {
-        width: 45%; /* Adjust the width as needed to fit both images side by side */
+        width: 50%; /* Adjust the width as needed to fit both images side by side */
         height: auto; /* To maintain aspect ratio */
     }
 </style>
@@ -40,6 +40,7 @@
 
 <center>
     <img src="images/bank-customer-churn/model.png" class="image-with-shadow">
+    <br>
     <br>
     <div class="image-container">
         <img src="images/bank-customer-churn/confusion-matrix.png" class="image-with-shadow">
