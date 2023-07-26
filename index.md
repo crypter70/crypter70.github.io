@@ -175,7 +175,7 @@
 
 ---
 ## Dashboard 
-### COVID-19 Cases (Indonesia) Dashboard
+### 1. COVID-19 Cases (Indonesia) Dashboard
 <div style="text-align: justify">
     <strong>Objective:</strong>
         <br>
@@ -194,7 +194,7 @@
 </center>
 ---
 
-### Credit Dashboard
+### 2. Credit Dashboard
 <div style="text-align: justify">
     <strong>Objective:</strong>
         <br>
@@ -219,7 +219,7 @@
 </center>
 ---
 
-### COVID-19 Dashboard
+### 3. COVID-19 Dashboard
 <div style="text-align: justify">
     <strong>Objective:</strong>
         <br>
@@ -241,7 +241,7 @@
 ---
 ## Web Scraping 
 
-### Tokopedia Scraper
+### 1. Tokopedia Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
 [![Forks](https://img.shields.io/github/forks/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
@@ -260,7 +260,7 @@
 </center>
 ---
 
-### Nike Scraper
+### 2. Nike Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Nike-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Nike-Scraper?style=social)](https://github.com/crypter70/Nike-Scraper){:target="_blank"}
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Nike-Scraper){:target="_blank"} -->
@@ -279,7 +279,7 @@
 </center>
 ---
 
-### SINTA Scraper
+### 3. SINTA Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/SINTA-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/SINTA-Scraper?style=social)](https://github.com/crypter70/SINTA-Scraper){:target="_blank"}
 
@@ -297,7 +297,7 @@
 </center>
 ---
 
-### LTMPT Scraper
+### 4. LTMPT Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/LTMPT-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/LTMPT-Scraper?style=social)](https://github.com/crypter70/LTMPT-Scraper){:target="_blank"}
 
