@@ -11,7 +11,7 @@
 
 ## Data Science
 
-### Bank Customer Churn Prediction
+### 1. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
@@ -50,7 +50,7 @@
 </center>
 ---
 
-### Electric Vehicle Type Classification
+### 2. Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
@@ -84,7 +84,7 @@
 </center>
 ---
 
-### Credit Default Classification
+### 3. Credit Default Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Credit-Default-Classification/blob/main/Credit%20Default%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Credit-Default-Classification){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Credit-Default-Classification?style=social)](https://github.com/crypter70/Credit-Default-Classification){:target="_blank"}
@@ -115,7 +115,7 @@
 </center>
 ---
 
-### Stocks Prediction
+### 4. Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"}
@@ -138,7 +138,7 @@
 </center>
 ---
 
-### Topic Extraction
+### 5. Topic Extraction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Topic-Extraction/blob/main/Topic%20Extraction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Topic-Extraction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Topic-Extraction?style=social)](https://github.com/crypter70/Topic-Extraction){:target="_blank"}
