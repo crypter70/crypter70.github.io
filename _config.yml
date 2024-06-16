@@ -4,15 +4,14 @@ logo: "/images/profile.png?raw=true"
 
 description: 
   <p align="center">
-  <a href="https://yoss7054.notion.site/">Resume</a> |
+  <a href="https://drive.google.com/file/d/1I7YVV2BDLvnbVZ47AWJ7yMBaLVMBRr4t/view?usp=sharing">Resume</a> |
   <a href="https://www.linkedin.com/in/yosafat-7054/">LinkedIn</a> |
   <a href="https://github.com/crypter70">GitHub</a>
   </p>
   
   <p align="justify">
-  Experienced Data Scientist with a strong background in programming, data analysis, and algorithm development. Had more than 1 year of experience in the data field with expertise encompassing end-to-end machine learning development, Natural Language Processing (NLP), deep learning frameworks, statistical analysis, data analysis, data wrangling, and web scraping. Advanced in Python and had considerable experience with TensorFlow, PyTorch, Scikit-learn, and cloud platforms such as Amazon Web Services (AWS) and Google Cloud Platform (GCP).
+  Experienced Data Scientist with a strong background in programming, development and deployment of ML/DL models, and data analytics. Had approximately 2 years of experience in the data field, encompassing end-to-end ML/DL model development, Natural Language Processing (NLP) applications, ML/DL framework utilization, data analysis, data cleaning, and web scraping. Proficient in Python, cloud platforms such as Amazon Web Services (AWS) and Google Cloud Platform (GCP), ML/DL frameworks such as PyTorch, TensorFlow, Keras, and scikit-learn. Interested and familiar with LLMs and their applications, as well as financial technology. Demonstrated ability to collaborate effectively in teams and work independently, with strong analytical skills to solve complex problems.
   </p>
-
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
