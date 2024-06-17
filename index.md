@@ -19,7 +19,28 @@
     }
 </style>
 
-## Data Science
+## Large Language Models (LLMs)
+
+### 1. Text Summarization using LangChain and BART Large CNN
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Text-Summarization-using-LangChain-and-BART-Large-CNN){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Text-Summarization-using-LangChain-and-BART-Large-CNN){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Description:</strong>
+        <br>
+        This project features the development and implementation of an advanced text summarization system using LangChain and BART-Large-CNN. 
+        This project allows users to summarize long text entered in the app into a few sentences.
+        <br>
+        <br>
+    <strong>Tech Stack: Streamlit, LangChain, and HuggingFaceHub</strong>
+    <br>
+    <!-- <p>Read the article here (<a href="https://medium.com/@crypter70/bank-customer-churn-prediction-using-machine-learning-514516ecf82e" target="_blank">Medium Article</a>) </p> -->
+</div>
+
+<center>
+    <iframe src="https://crypter70-text-summarization-using-langchain-and-bar-app-vvyyrc.streamlit.app?embed=true" style="height: 450px; width: 100%;"></iframe>
+</center>
+---
 
 ### 1. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
