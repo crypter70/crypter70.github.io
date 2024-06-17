@@ -33,7 +33,8 @@
         <br>
         <br>
     <div><strong>Tech Stack</strong>: Streamlit, LangChain, and HuggingFaceHub</div>
-    <div><strong>App URL: </strong><a href="https://crypter70-text-summarization-using-langchain-and-bar-app-vvyyrc.streamlit.app" target="_blank">Click Here</a></div>
+    <div><strong>Streamlit App: </strong><a href="https://crypter70-text-summarization-using-langchain-and-bar-app-vvyyrc.streamlit.app" target="_blank">App URL</a></div>
+    <br>
 </div>
 
 <center>
