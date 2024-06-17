@@ -32,13 +32,15 @@
         This project allows users to summarize long text entered in the app into a few sentences.
         <br>
         <br>
-    <strong>Tech Stack: Streamlit, LangChain, and HuggingFaceHub</strong>
+    <div><strong>Tech Stack</strong>: Streamlit, LangChain, and HuggingFaceHub</div>
+    <!-- <div><strong>App URL</strong>: Streamlit, LangChain, and HuggingFaceHub</div> -->
+    <p>App URL (<a href="https://crypter70-text-summarization-using-langchain-and-bar-app-vvyyrc.streamlit.app" target="_blank">Click Here</a>)</p>
+    <!-- <strong>Tech Stack: Streamlit, LangChain, and HuggingFaceHub</strong> -->
     <br>
-    <!-- <p>Read the article here (<a href="https://medium.com/@crypter70/bank-customer-churn-prediction-using-machine-learning-514516ecf82e" target="_blank">Medium Article</a>) </p> -->
 </div>
 
 <center>
-    <iframe src="https://crypter70-text-summarization-using-langchain-and-bar-app-vvyyrc.streamlit.app?embed=true" style="height: 450px; width: 100%;"></iframe>
+    <iframe src="https://crypter70-text-summarization-using-langchain-and-bar-app-vvyyrc.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
 </center>
 ---
 
