@@ -21,7 +21,28 @@
 
 ## Large Language Models (LLMs)
 
-### 1. Text Summarization using LangChain and BART Large CNN
+### 1. IndoBERT Sentiment Analysis: Sentiment Analysis with IndoBERT Fine-tuning and IndoNLU SmSA Dataset
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/IndoBERT-WebApp-Sentiment-Analysis-using-Streamlit-for-Indonesian){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/IndoBERT-WebApp-Sentiment-Analysis-using-Streamlit-for-Indonesian){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Description:</strong>
+        <br>
+        This project features the development and implementation of an advanced text summarization system using LangChain and BART-Large-CNN. 
+        This project allows users to summarize long text entered in the app into a few sentences.
+        <br>
+        <br>
+    <div><strong>Tech Stack</strong>: Streamlit, LangChain, and HuggingFaceHub</div>
+    <div><strong>Streamlit: </strong><a href="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-ka6hlg.streamlit.app/" target="_blank">Text Summarization App</a></div>
+    <br>
+</div>
+
+<center>
+    <iframe src="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-ka6hlg.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
+</center>
+---
+
+### 2. Text Summarization using LangChain and BART Large CNN
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Text-Summarization-using-LangChain-and-BART-Large-CNN){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Text-Summarization-using-LangChain-and-BART-Large-CNN){:target="_blank"}
 
