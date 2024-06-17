@@ -53,12 +53,12 @@
         <br>
         <br>
     <div><strong>Tech Stack</strong>: Streamlit, LangChain, and HuggingFaceHub</div>
-    <div><strong>Streamlit: </strong><a href="https://crypter70-text-summarization-using-langchain-and-bar-app-vvyyrc.streamlit.app" target="_blank">Text Summarization App</a></div>
+    <div><strong>Streamlit: </strong><a href="https://crypter70-text-summarization-using-langchain-and-bar-app-cqua0w.streamlit.app" target="_blank">Text Summarization App</a></div>
     <br>
 </div>
 
 <center>
-    <iframe src="https://crypter70-text-summarization-using-langchain-and-bar-app-vvyyrc.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
+    <iframe src="https://crypter70-text-summarization-using-langchain-and-bar-app-cqua0w.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
 </center>
 ---
 
