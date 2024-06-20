@@ -28,11 +28,13 @@
 <div style="text-align: justify">
     <strong>Description:</strong>
         <br>
-        This project contains the development and implementation of LLM text classification model by fine-tuning pre-trained IndoBERT model against IndoNLU SmSA dataset. This model is able to predict sentence sentiment into several categories namely positive, neutral, and negative.
+        This project contains the end-to-end development of LLM text classification model by fine-tuning pre-trained IndoBERT model using IndoNLU SmSA dataset. This model is able to predict sentence sentiment into several categories namely positive, neutral, and negative.
         <br>
         <br>
-    <div><strong>Tech Stack</strong>: Streamlit, Pillow, Transformers, and PyTorch</div>
-    <div><strong>Streamlit: </strong><a href="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-ka6hlg.streamlit.app/" target="_blank">IndoBERT Sentiment Analysis App</a></div>
+    <div><strong>Tech Stack: </strong>Transformers, PyTorch, Pillow, and Streamlit</div>
+    <div><strong>Streamlit: </strong><a href="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-kli3uq.streamlit.app/" target="_blank">Sentiment Analysis App</a></div>
+    <div><strong>Fine-tuning: </strong><a href="https://github.com/crypter70/Sentiment-Analysis-with-IndoBERT-Fine-tuning-and-IndoNLU-SmSA-Dataset" target="_blank">Fine-tuning GitHub Repository</a></div>
+    <div><strong>HuggingFace: </strong><a href="https://huggingface.co/crypter70/IndoBERT-Sentiment-Analysis" target="_blank">IndoBERT-Sentiment-Analysis</a></div>
     <br>
 </div>
 
@@ -52,7 +54,7 @@
         This project allows users to summarize long text entered in the app into a few sentences.
         <br>
         <br>
-    <div><strong>Tech Stack</strong>: Streamlit, LangChain, and HuggingFaceHub</div>
+    <div><strong>Tech Stack: </strong>LangChain, HuggingFaceHub, and Streamlit</div>
     <div><strong>Streamlit: </strong><a href="https://crypter70-text-summarization-using-langchain-and-bar-app-cqua0w.streamlit.app" target="_blank">Text Summarization App</a></div>
     <br>
 </div>
