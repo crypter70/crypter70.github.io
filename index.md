@@ -39,7 +39,7 @@
 </div>
 
 <center>
-    <iframe src="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-ka6hlg.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
+    <iframe src="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-kli3uq.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
 </center>
 ---
 
