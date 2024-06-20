@@ -21,7 +21,7 @@
 
 ## 1. Large Language Models (LLMs)
 
-### 1.1 IndoBERT Sentiment Analysis: Sentiment Analysis with IndoBERT Fine-tuning and IndoNLU SmSA Dataset
+### 1.1. IndoBERT Sentiment Analysis: Sentiment Analysis with IndoBERT Fine-tuning and IndoNLU SmSA Dataset
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/IndoBERT-WebApp-Sentiment-Analysis-using-Streamlit-for-Indonesian){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/IndoBERT-WebApp-Sentiment-Analysis-using-Streamlit-for-Indonesian?style=social)](https://github.com/crypter70/IndoBERT-WebApp-Sentiment-Analysis-using-Streamlit-for-Indonesian){:target="_blank"}
 
@@ -43,7 +43,7 @@
 </center>
 ---
 
-### 1.2 Text Summarization using LangChain and BART Large CNN
+### 1.2. Text Summarization using LangChain and BART Large CNN
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Text-Summarization-using-LangChain-and-BART-Large-CNN){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Text-Summarization-using-LangChain-and-BART-Large-CNN?style=social)](https://github.com/crypter70/Text-Summarization-using-LangChain-and-BART-Large-CNN){:target="_blank"}
 
@@ -65,7 +65,7 @@
 </center>
 ---
 
-### 1.3 Document Question Answering using LangChain, F.A.I.S.S., and Gemma
+### 1.3. Document Question Answering using LangChain, F.A.I.S.S., and Gemma
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Document-Question-Answering-using-LangChain-F.A.I.S.S.-and-Gemma){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Document-Question-Answering-using-LangChain-F.A.I.S.S.-and-Gemma?style=social)](https://github.com/crypter70/Document-Question-Answering-using-LangChain-F.A.I.S.S.-and-Gemma){:target="_blank"}
 
@@ -89,7 +89,7 @@
 
 ## 2. Machine Learning
 
-### 2.1 Bank Customer Churn Prediction
+### 2.1. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
@@ -127,7 +127,7 @@
 </center>
 ---
 
-### 2.2 Electric Vehicle Type Classification
+### 2.2. Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
@@ -166,7 +166,7 @@
 </center>
 ---
 
-### 2.3 Credit Default Prediction
+### 2.3. Credit Default Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Credit-Default-Classification/blob/main/Credit%20Default%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Credit-Default-Classification){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Credit-Default-Classification?style=social)](https://github.com/crypter70/Credit-Default-Classification){:target="_blank"}
@@ -197,7 +197,7 @@
 </center>
 ---
 
-### 2.4 Stocks Prediction
+### 2.4. Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"}
@@ -220,7 +220,7 @@
 </center>
 ---
 
-### 2.5 Topic Extraction
+### 2.5. Topic Extraction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Topic-Extraction/blob/main/Topic%20Extraction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Topic-Extraction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Topic-Extraction?style=social)](https://github.com/crypter70/Topic-Extraction){:target="_blank"}
@@ -244,7 +244,7 @@
 
 ## 3. Web Scraping 
 
-### 3.1 Tokopedia Scraper
+### 3.1. Tokopedia Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
 [![Forks](https://img.shields.io/github/forks/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Tokopedia-Scraper){:target="_blank"}
@@ -263,7 +263,7 @@
 </center>
 ---
 
-### 3.2 Nike Scraper
+### 3.2. Nike Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Nike-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Nike-Scraper?style=social)](https://github.com/crypter70/Nike-Scraper){:target="_blank"}
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Tokopedia-Scraper?style=social)](https://github.com/crypter70/Nike-Scraper){:target="_blank"} -->
@@ -282,7 +282,7 @@
 </center>
 ---
 
-### 3.3 SINTA Scraper
+### 3.3. SINTA Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/SINTA-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/SINTA-Scraper?style=social)](https://github.com/crypter70/SINTA-Scraper){:target="_blank"}
 
@@ -300,7 +300,7 @@
 </center>
 ---
 
-### 3.4 LTMPT Scraper
+### 3.4. LTMPT Scraper
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/LTMPT-Scraper){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/LTMPT-Scraper?style=social)](https://github.com/crypter70/LTMPT-Scraper){:target="_blank"}
 
@@ -329,5 +329,5 @@
 
 ---
 
-<center>© 2023 Yosafat. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2024 Yosafat. Powered by Jekyll and the Minimal Theme.</center>
 
