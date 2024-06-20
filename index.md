@@ -32,14 +32,14 @@
         <br>
         <br>
     <div><strong>Tech Stack: </strong>Transformers, PyTorch, Pillow, and Streamlit</div>
-    <div><strong>Streamlit: </strong><a href="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-kli3uq.streamlit.app/" target="_blank">Sentiment Analysis App</a></div>
+    <div><strong>Streamlit: </strong><a href="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-l5ogok.streamlit.app/" target="_blank">Sentiment Analysis App</a></div>
     <div><strong>Fine-tuning: </strong><a href="https://github.com/crypter70/Sentiment-Analysis-with-IndoBERT-Fine-tuning-and-IndoNLU-SmSA-Dataset" target="_blank">Fine-tuning GitHub Repository</a></div>
     <div><strong>HuggingFace: </strong><a href="https://huggingface.co/crypter70/IndoBERT-Sentiment-Analysis" target="_blank">IndoBERT-Sentiment-Analysis</a></div>
     <br>
 </div>
 
 <center>
-    <iframe src="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-kli3uq.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
+    <iframe src="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-l5ogok.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
 </center>
 ---
 
