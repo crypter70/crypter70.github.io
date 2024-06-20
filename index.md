@@ -64,6 +64,27 @@
 </center>
 ---
 
+### 3. Document Question Answering using LangChain, F.A.I.S.S., and Gemma
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Document-Question-Answering-using-LangChain-F.A.I.S.S.-and-Gemma){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/Document-Question-Answering-using-LangChain-F.A.I.S.S.-and-Gemma?style=social)](https://github.com/crypter70/Document-Question-Answering-using-LangChain-F.A.I.S.S.-and-Gemma){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Description:</strong>
+        <br>
+        This project features the integration and implementation of an advanced document question answering system using LangChain, FAISS (Facebook AI Similarity Search), and Gemma 7b. This system can answer questions asked by users from documents that have been uploaded.
+        <br>
+        <br>
+    <div><strong>Tech Stack: </strong>LangChain, FAISS (Facebook AI Similarity Search), Gemma 7b, Sentence-Transformers, PyPDF2, HuggingFaceHub, and Streamlit</div>
+    <div><strong>Streamlit: </strong><a href="https://crypter70-document-question-answering-using-langchai-app-xnqae2.streamlit.app" target="_blank">Document Question Answering App</a></div>
+    <div><strong>Gemma 7b: </strong><a href="https://huggingface.co/google/gemma-7b" target="_blank">Google Gemma 7B Base Model</a></div>
+    <br>
+</div>
+
+<center>
+    <iframe src="https://crypter70-document-question-answering-using-langchai-app-xnqae2.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
+</center>
+---
+
 ### 1. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
