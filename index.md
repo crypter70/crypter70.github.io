@@ -31,7 +31,7 @@
         This project contains the end-to-end development of LLM text classification model by fine-tuning pre-trained IndoBERT model using IndoNLU SmSA dataset. This model is able to predict sentence sentiment into several categories namely positive, neutral, and negative.
         <br>
         <br>
-    <div><strong>Tech Stack: </strong>HuggingFaceHub, PyTorch, Pillow, and Streamlit</div>
+    <div><strong>Tech Stack: </strong>Transformers, PyTorch, scikit-learn, Matplotlib, Seaborn, HuggingFaceHub, Pillow, and Streamlit</div>
     <div><strong>Streamlit: </strong><a href="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-l5ogok.streamlit.app/" target="_blank">Sentiment Analysis App</a></div>
     <div><strong>Fine-tuning: </strong><a href="https://github.com/crypter70/Sentiment-Analysis-with-IndoBERT-Fine-tuning-and-IndoNLU-SmSA-Dataset" target="_blank">Fine-tuning GitHub Repository</a></div>
     <div><strong>HuggingFace: </strong><a href="https://huggingface.co/crypter70/IndoBERT-Sentiment-Analysis" target="_blank">IndoBERT-Sentiment-Analysis</a></div>
