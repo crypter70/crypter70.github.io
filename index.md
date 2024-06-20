@@ -31,7 +31,7 @@
         This project contains the end-to-end development of LLM text classification model by fine-tuning pre-trained IndoBERT model using IndoNLU SmSA dataset. This model is able to predict sentence sentiment into several categories namely positive, neutral, and negative.
         <br>
         <br>
-    <div><strong>Tech Stack: </strong>Transformers, PyTorch, Pillow, and Streamlit</div>
+    <div><strong>Tech Stack: </strong>HuggingFaceHub, PyTorch, Pillow, and Streamlit</div>
     <div><strong>Streamlit: </strong><a href="https://crypter70-indobert-webapp-sentiment-analysis-using-s-app-l5ogok.streamlit.app/" target="_blank">Sentiment Analysis App</a></div>
     <div><strong>Fine-tuning: </strong><a href="https://github.com/crypter70/Sentiment-Analysis-with-IndoBERT-Fine-tuning-and-IndoNLU-SmSA-Dataset" target="_blank">Fine-tuning GitHub Repository</a></div>
     <div><strong>HuggingFace: </strong><a href="https://huggingface.co/crypter70/IndoBERT-Sentiment-Analysis" target="_blank">IndoBERT-Sentiment-Analysis</a></div>
@@ -86,7 +86,7 @@
 </center>
 ---
 
-### 1. Bank Customer Churn Prediction
+### 4. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
@@ -124,7 +124,7 @@
 </center>
 ---
 
-### 2. Electric Vehicle Type Classification
+### 5. Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
@@ -163,7 +163,7 @@
 </center>
 ---
 
-### 3. Credit Default Prediction
+### 6. Credit Default Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Credit-Default-Classification/blob/main/Credit%20Default%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Credit-Default-Classification){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Credit-Default-Classification?style=social)](https://github.com/crypter70/Credit-Default-Classification){:target="_blank"}
@@ -194,7 +194,7 @@
 </center>
 ---
 
-### 4. Stocks Prediction
+### 7. Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"}
@@ -217,7 +217,7 @@
 </center>
 ---
 
-### 5. Topic Extraction
+### 8. Topic Extraction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Topic-Extraction/blob/main/Topic%20Extraction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Topic-Extraction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Topic-Extraction?style=social)](https://github.com/crypter70/Topic-Extraction){:target="_blank"}
@@ -236,71 +236,6 @@
     <br>
 </center>
 <br>
-
-
----
-## Dashboard 
-### 1. COVID-19 Cases (Indonesia) Dashboard
-<div style="text-align: justify">
-    <strong>Objective:</strong>
-        <br>
-        This project aims to transform raw data into useful information about COVID-19 cases in Indonesia using visualizations on the Tableau dashboard.
-        <br>
-        <br>
-    <strong>Dashboard:</strong>
-    <br>
-    <p>Open the dashboard here (<a href="https://public.tableau.com/views/COVID-19CasesIndonesia/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a>) </p>
-</div>
-
-<center>
-    <img src="images/covid-19-indonesia/dashboard-1.png"/>
-    <br>
-    <br>
-</center>
----
-
-### 2. Credit Dashboard
-<div style="text-align: justify">
-    <strong>Objective:</strong>
-        <br>
-        This project aims to transform raw data into useful information for businesses about credit using visualization on the Looker Studio dashboard.
-        <br>
-        <br>
-    <strong>Dashboard:</strong>
-    <br>
-    <p>Open the dashboard here (<a href="https://lookerstudio.google.com/u/0/reporting/6b1a0b77-0425-446e-9a92-9288a87f03c3/page/p_mghv1jr16c">Looker Studio Dashboard</a>) </p>
-</div>
-
-<center>
-    <img src="images/credit/dashboard-1.png"/>
-    <br>
-    <br>
-    <img src="images/credit/dashboard-2.png"/>
-    <br>
-    <br>
-    <img src="images/credit/dashboard-3.png"/>
-    <br>
-    <br>
-</center>
----
-
-### 3. COVID-19 Dashboard
-<div style="text-align: justify">
-    <strong>Objective:</strong>
-        <br>
-        This project aims to transform raw data into useful information about COVID-19 cases using visualizations on the Looker Studio dashboard.
-        <br>
-        <br>
-    <strong>Dashboard:</strong>
-    <br>
-    <p>Open the dashboard here (<a href="https://lookerstudio.google.com/u/0/reporting/f6b45eb1-9d07-4d7d-b432-d106743437ff/page/p_42tl4mcf6c">Looker Studio Dashboard</a>) </p>
-</div>
-
-<center>
-    <img src="images/covid-19/dashboard-1.png"/>
-    <br>
-    <br>
-</center>
 
 
 ---
