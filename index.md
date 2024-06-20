@@ -54,8 +54,9 @@
         This project allows users to summarize long text entered in the app into a few sentences.
         <br>
         <br>
-    <div><strong>Tech Stack: </strong>LangChain, HuggingFaceHub, and Streamlit</div>
+    <div><strong>Tech Stack: </strong>LangChain, Facebook BART Large CNN, HuggingFaceHub, and Streamlit</div>
     <div><strong>Streamlit: </strong><a href="https://crypter70-text-summarization-using-langchain-and-bar-app-cqua0w.streamlit.app" target="_blank">Text Summarization App</a></div>
+    <div><strong>Facebook BART Large CNN: </strong><a href="https://huggingface.co/facebook/bart-large-cnn" target="_blank">Facebook BART Large CNN Model</a></div>
     <br>
 </div>
 
