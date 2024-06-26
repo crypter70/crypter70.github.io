@@ -160,8 +160,8 @@
 <!-- ### 2.2. Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
-[![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"} -->
-<!-- [![Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
+[![Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
@@ -181,14 +181,14 @@
     <div class="image-container">
         <img src="images/electric-vehicle-type/cf.png" class="image-with-shadow">
         <img src="images/electric-vehicle-type/roc-auc-curve.png" class="image-with-shadow">
-    </div> -->
-    <!-- <br>
+    </div>
+    <br>
     <img src="images/electric-vehicle-type/cf.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
     <img src="images/electric-vehicle-type/roc-auc-curve.png" class="image-with-shadow" width="90%" height="90%">
-    <br> -->
-    <!-- <br>
+    <br>
+    <br>
     <img src="images/electric-vehicle-type/feature-importance.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
