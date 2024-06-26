@@ -89,7 +89,37 @@
 
 ## 2. Machine Learning
 
-### 2.1. Bank Customer Churn Prediction
+### 2.1. IDX Banking Stocks Forecast using Long Short-Term Memory (LSTM)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/IDX-Banking-Stocks-Forecast-using-LSTM){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/IDX-Banking-Stocks-Forecast-using-LSTM?style=social)](https://github.com/crypter70/IDX-Banking-Stocks-Forecast-using-LSTM){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Description:</strong>
+        <br>
+        This project demonstrates the development of a stock prediction model for the Indonesian banking sector using the LSTM model. The LSTM model is built with PyTroch with training data taken from the beginning of 2020 to the end of 2023 using yfinance. The training data amounted to 779 and the evaluation data amounted to 195.
+        <br>
+        <br>
+    <div><strong>Tech Stack: </strong>PyTorch, Keras, scikit-learn, yfinance, and statsmodels</div>
+    <br>
+</div>
+
+<center>
+    <img src="images/idx-banking-stocks-forecasting/1.png" class="image-with-shadow">
+    <br>
+    <br>
+    <img src="images/idx-banking-stocks-forecasting/2.png" class="image-with-shadow">
+    <br>
+    <br>
+    <img src="images/idx-banking-stocks-forecasting/3.png" class="image-with-shadow">
+    <br>
+    <br>
+    <img src="images/idx-banking-stocks-forecasting/4.png" class="image-with-shadow">
+    <br>
+    <br>
+</center>
+---
+
+### 2.2. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
@@ -127,12 +157,11 @@
 </center>
 ---
 
-### 2.2. Electric Vehicle Type Classification
+<!-- ### 2.2. Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
-[![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"}
-<!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
-[![Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/Electric-Vehicle-Type-Classification?style=social)](https://github.com/crypter70/Electric-Vehicle-Type-Classification){:target="_blank"} -->
+<!-- [![Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
@@ -152,25 +181,24 @@
     <div class="image-container">
         <img src="images/electric-vehicle-type/cf.png" class="image-with-shadow">
         <img src="images/electric-vehicle-type/roc-auc-curve.png" class="image-with-shadow">
-    </div>
+    </div> -->
     <!-- <br>
     <img src="images/electric-vehicle-type/cf.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
     <img src="images/electric-vehicle-type/roc-auc-curve.png" class="image-with-shadow" width="90%" height="90%">
     <br> -->
-    <br>
+    <!-- <br>
     <img src="images/electric-vehicle-type/feature-importance.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
 </center>
----
+--- -->
 
-### 2.3. Credit Default Prediction
+<!-- ### 2.3. Credit Default Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Credit-Default-Classification/blob/main/Credit%20Default%20Classification.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Credit-Default-Classification){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Credit-Default-Classification?style=social)](https://github.com/crypter70/Credit-Default-Classification){:target="_blank"}
-<!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
@@ -195,15 +223,15 @@
     <br>
     <br>
 </center>
----
+--- -->
 
-### 2.4. Stocks Prediction
+<!-- ### 2.4. Stocks Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Stocks-Prediction/blob/main/Stocks%20Forecasting.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"}
-[![Stars](https://img.shields.io/github/stars/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction){:target="_blank"} -->
 <!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
 
-<div style="text-align: justify">
+<!-- <div style="text-align: justify">
     <strong>Objective:</strong>
     <br>
     A Machine Learning project to forecast stock prices using the Long-Short Term Memory (LSTM) algorithm. The forecasted stocks consist of 4 stock codes on the Indonesia Stock Exchange (IDX), 2 stocks each in the banking sector, namely BBCA and BBNI, the mining sector, namely ADRO and INDY.
@@ -218,13 +246,12 @@
     <img src="images/stocks3.png"/>
     <br>
 </center>
----
+--- -->
 
-### 2.5. Topic Extraction
+<!-- ### 2.5. Topic Extraction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Topic-Extraction/blob/main/Topic%20Extraction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Topic-Extraction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Topic-Extraction?style=social)](https://github.com/crypter70/Topic-Extraction){:target="_blank"}
-<!-- [![Forks](https://img.shields.io/github/forks/crypter70/Stocks-Prediction?style=social)](https://github.com/crypter70/Stocks-Prediction) -->
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
@@ -239,7 +266,7 @@
     <br>
 </center>
 <br>
----
+--- -->
 
 
 ## 3. Web Scraping 
