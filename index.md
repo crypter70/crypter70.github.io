@@ -107,15 +107,7 @@
     <img src="images/idx-banking-stocks-forecasting/1.png" class="image-with-shadow">
     <br>
     <br>
-    <img src="images/idx-banking-stocks-forecasting/2.png" class="image-with-shadow">
-    <br>
-    <br>
-    <img src="images/idx-banking-stocks-forecasting/3.png" class="image-with-shadow">
-    <br>
-    <br>
     <img src="images/idx-banking-stocks-forecasting/4.png" class="image-with-shadow">
-    <br>
-    <br>
 </center>
 ---
 
