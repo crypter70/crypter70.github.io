@@ -8,6 +8,11 @@
         border-radius: 8px;
     }
 
+    .image-with-shadow-less-border-radius {
+        box-shadow: 0px 1px 6px rgba(63, 69, 81, 0.16);
+        border-radius: 4px;
+    }
+
     .image-container {
     display: flex; /* Or use "display: grid;" for a grid layout */
     justify-content: space-between; /* Adjust as needed */
@@ -82,7 +87,7 @@
 </div>
 
 <center>
-    <img src="images/dqa/DQA_3.png" class="image-with-shadow">
+    <img src="images/dqa/DQA_3.png" class="image-with-shadow-less-border-radius">
     <br>
     <br>
     <iframe src="https://crypter70-document-question-answering-using-langchai-app-xnqae2.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
