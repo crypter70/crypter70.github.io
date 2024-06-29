@@ -123,7 +123,6 @@
         <br>
     <div><strong>Tech Stack: </strong>scikit-learn, Pandas, NumPy, FastAPI, and Streamlit</div>
     <div><strong>Streamlit: </strong><a href="https://crypter70-e-commerce-transaction-fraud-dete-streamlitapp-tfufq2.streamlit.app/" target="_blank">E-Commerce Transaction Fraud Detection App</a></div>
-    <br>
 </div>
 
 <center>
@@ -131,8 +130,9 @@
         <img src="images/ecom-fraud/cm_ecom.png" class="image-with-shadow">
         <img src="images/ecom-fraud/roc-auc_ecom.png" class="image-with-shadow">
     </div>
+    <br>
     <center>
-        <iframe src="https://crypter70-document-question-answering-using-langchai-app-xnqae2.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
+        <iframe src="https://crypter70-e-commerce-transaction-fraud-dete-streamlitapp-tfufq2.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
     </center>
 </center>
 ---
