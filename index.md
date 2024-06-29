@@ -364,14 +364,14 @@
 </center>
 
 
----
+<!-- ---
 ## Latest Publication
 - [Web Scraping Sederhana Menggunakan Scrapy](https://medium.com/@crypter70/web-scraping-sederhana-menggunakan-scrapy-e1e959a05688)
 <br>
 - [Bank Customer Churn Prediction using Machine Learning](https://medium.com/@crypter70/bank-customer-churn-prediction-using-machine-learning-514516ecf82e)
 <br>
 - [Classification of Electric Vehicle Types using Machine Learning](https://medium.com/@crypter70/classification-of-electric-vehicle-types-using-machine-learning-7768f6293603)
-<br>
+<br> -->
 
 ---
 
