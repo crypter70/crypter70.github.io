@@ -111,7 +111,35 @@
 </center>
 ---
 
-### 2.2. Bank Customer Churn Prediction
+### 2.2. E-Commerce Transaction Fraud Detection using Machine Learning
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/E-commerce-Transaction-Fraud-Detection){:target="_blank"}
+[![Stars](https://img.shields.io/github/stars/crypter70/E-commerce-Transaction-Fraud-Detection?style=social)](https://github.com/crypter70/E-commerce-Transaction-Fraud-Detection){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Description:</strong>
+        <br>
+        This project involves the development and deployment of a classification model to detect fraud in e-commerce transactions based on user transaction data. The best model is Decision Tree Classifier with a precision value of 0.63 and ROC-AUC of 0.75 for the test data. The project was developed by applying a standardized folder structure to facilitate project organization and management, reproducibility, and automation.
+        <br>
+        <br>
+    <div><strong>Tech Stack: </strong>scikit-learn, Pandas, NumPy, FastAPI, and Streamlit</div>
+    <div><strong>Streamlit: </strong><a href="https://crypter70-e-commerce-transaction-fraud-dete-streamlitapp-tfufq2.streamlit.app/" target="_blank">E-Commerce Transaction Fraud Detection App</a></div>
+    <br>
+</div>
+
+<center>
+    <div class="image-container">
+        <img src="images/ecom-fraud/cm_ecom.png" class="image-with-shadow">
+        <img src="images/ecom-fraud/roc-auc_ecom.png" class="image-with-shadow">
+    </div>
+    <br>
+    <br>
+    <center>
+        <iframe src="https://crypter70-document-question-answering-using-langchai-app-xnqae2.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
+    </center>
+</center>
+---
+
+<!-- ### 2.2. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
@@ -147,7 +175,7 @@
     <br>
     <br>
 </center>
----
+--- -->
 
 <!-- ### 2.2. Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
