@@ -131,15 +131,13 @@
         <img src="images/ecom-fraud/cm_ecom.png" class="image-with-shadow">
         <img src="images/ecom-fraud/roc-auc_ecom.png" class="image-with-shadow">
     </div>
-    <br>
-    <br>
     <center>
         <iframe src="https://crypter70-document-question-answering-using-langchai-app-xnqae2.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
     </center>
 </center>
 ---
 
-<!-- ### 2.2. Bank Customer Churn Prediction
+### 2.2. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
@@ -175,7 +173,7 @@
     <br>
     <br>
 </center>
---- -->
+---
 
 <!-- ### 2.2. Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
