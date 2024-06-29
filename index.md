@@ -77,7 +77,7 @@
 <div style="text-align: justify">
     <strong>Description:</strong>
         <br>
-        This project features the integration and implementation of an advanced document question answering system using LangChain, FAISS (Facebook AI Similarity Search), and Gemma 7b. This system can answer questions asked by users from documents that have been uploaded.
+        This project features the integration and implementation of an advanced document question answering system using LangChain, FAISS (Facebook AI Similarity Search), and Gemma 7b. This system can answer questions asked by users from documents that have been uploaded. Furthermore, this project applies Retrieval-Augmented Generation (RAG) technique to optimize LLM with external knowledge to improve the output. The RAG technique approach applied in this project is Retriever-Generator, Retriever works to retrieve relevant information (context), then Generator works to generate answers from the context.
         <br>
         <br>
     <div><strong>Tech Stack: </strong>LangChain, FAISS (Facebook AI Similarity Search), Gemma 7b, Sentence-Transformers, PyPDF2, HuggingFaceHub, and Streamlit</div>
