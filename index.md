@@ -82,9 +82,8 @@
 </div>
 
 <center>
-    <img src="images/dqa/DQA_2.png" class="image-with-shadow">
-        <br>
-        <br>
+    <img src="images/dqa/DQA_3.png" class="image-with-shadow">
+    <br>
     <iframe src="https://crypter70-document-question-answering-using-langchai-app-xnqae2.streamlit.app?embed=true" style="height: 450px; width: 100%;" frameBorder="0"></iframe>
 </center>
 ---
