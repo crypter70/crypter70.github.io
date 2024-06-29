@@ -123,6 +123,7 @@
         <br>
     <div><strong>Tech Stack: </strong>scikit-learn, Pandas, NumPy, FastAPI, and Streamlit</div>
     <div><strong>Streamlit: </strong><a href="https://crypter70-e-commerce-transaction-fraud-dete-streamlitapp-tfufq2.streamlit.app/" target="_blank">E-Commerce Transaction Fraud Detection App</a></div>
+    <br>
 </div>
 
 <center>
@@ -137,7 +138,7 @@
 </center>
 ---
 
-### 2.2. Bank Customer Churn Prediction
+<!-- ### 2.2. Bank Customer Churn Prediction
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction.ipynb){:target="_blank"}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
 [![Stars](https://img.shields.io/github/stars/crypter70/Bank-Customer-Churn-Prediction?style=social)](https://github.com/crypter70/Bank-Customer-Churn-Prediction){:target="_blank"}
@@ -173,7 +174,7 @@
     <br>
     <br>
 </center>
----
+--- -->
 
 <!-- ### 2.2. Electric Vehicle Type Classification
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/crypter70/Electric-Vehicle-Type-Classification/blob/main/Electric%20Vehicle%20Type%20Classification.ipynb){:target="_blank"}
