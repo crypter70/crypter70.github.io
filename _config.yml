@@ -4,13 +4,13 @@ logo: "/images/profile.png?raw=true"
 
 description: 
   <p align="center">
-  <a href="https://drive.google.com/file/d/1NCchggf0WQmYw7VFjTLeVMHmZXF24ZUI/view?usp=drive_link">Resume</a> |
+  <a href="https://drive.google.com/file/d/1A9HaencNpI8I-QXNv_s0nxZWvoQkf-6s/view?usp=drive_link">Resume</a> |
   <a href="https://www.linkedin.com/in/yosafat-7054/">LinkedIn</a> |
   <a href="https://github.com/crypter70">GitHub</a>
   </p>
   
   <p padding="30px" align="justify">
-  Experienced Data Scientist with a strong background in programming, development and deployment of ML/DL models, and data analytics. Possessing 2 years of hands-on experience in the data field, encompassing end-to-end ML/DL model development, Natural Language Processing (NLP) implementation, ML/DL framework utilization, data analysis, and web scraping. Proficient in Python, ML/DL frameworks such as PyTorch, TensorFlow, Keras, and scikit-learn, and experienced using cloud platforms such as Amazon Web Services (AWS) and Google Cloud Platform (GCP). Interested in and familiar with Large Language Model (LLM) implementation including Transfer Learning, Retrieval-Augmented Generation (RAG), and Multimodal AI. Demonstrated ability to collaborate effectively in teams and work independently, with strong analytical skills to solve complex problems.
+  Experienced Data Scientist with a strong background in programming, development and deployment of Machine Learning/Deep Learning (ML/DL) models, and data analytics. Possessing 2 years of hands-on experience in the data field, encompassing end-to-end ML/DL model development, Natural Language Processing (NLP) implementation, ML/DL framework utilization, data analysis, and web scraping. Proficient in Python, ML/DL frameworks such as PyTorch, TensorFlow, Keras, and scikit-learn, and experienced using cloud platforms such as Amazon Web Services (AWS) and Google Cloud Platform (GCP). Interested in and familiar with Large Language Model (LLM) implementation including Transfer Learning, Retrieval-Augmented Generation (RAG), and Multimodal AI. Demonstrated ability to collaborate effectively in teams and work independently, with strong analytical skills to solve complex problems.
   </p>
   
 theme: jekyll-theme-minimal
