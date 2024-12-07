@@ -14,13 +14,13 @@
     }
 
     .image-container {
-    display: flex; /* Or use "display: grid;" for a grid layout */
-    justify-content: space-between; /* Adjust as needed */
+    display: flex;
+    justify-content: space-between;
     }
 
     .image-container img {
-        width: 48%; /* Adjust the width as needed to fit both images side by side */
-        height: auto; /* To maintain aspect ratio */
+        width: 48%;
+        height: auto;
     }
 </style>
 
